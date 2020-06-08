@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="02cfd6bd-2b8d-473f-abfe-7ac23daefcf0" name="PHP latest" home="$USER_HOME$/.IntelliJIdea2019.3/system/plugins/idea-php-latest-plugin/php-v7.3.1/php.sh" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c1101d38-a18b-4baa-a853-13423a3dcad2" name="PHP latest" home="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.1/plugins/idea-php-latest-plugin/php-v7.3.1/php.sh" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
 </project>
