@@ -15,7 +15,7 @@ public class RandomLiczby {
             System.out.println ("podaj liczbe od 1-10:");
             liczba = scanner.nextInt ();
             System.out.println ( randomBetween ( 1, 10 ) );
-            
+
         }
     }
         static int  randomBetween(int start , int end){
