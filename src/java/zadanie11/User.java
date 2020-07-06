@@ -12,6 +12,8 @@ public class User {
     }
 
     public String getUsername(){return username;}
-    public String getPassword(){return password;}
+    public String Password(){return password;}
     public String getString(){return username + DELIMITER + password;}
+
+
 }
